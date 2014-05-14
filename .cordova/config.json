@@ -1,0 +1,8 @@
+{
+    "lib": {
+        "www": {
+            "id": "com.chiragsanghvi.employee-phonegap",
+            "version": "3.4.0"
+        }
+    }
+}
